@@ -1,0 +1,34 @@
+Sistema para Casa de Leilões
+Cadastro:
+
+Usuários: Registro de compradores, vendedores e administradores com informações básicas (nome, e-mail, senha).
+
+Itens de Leilão: Cadastro de itens com descrição, fotos e preço inicial.
+
+Organização:
+
+Calendário de Leilões: Programação de datas e horários dos leilões.
+
+Notificações: Envio de alertas para os usuários sobre próximos leilões ou lances recebidos.
+
+Leilão:
+
+Lances Online: Plataforma para dar lances em tempo real durante os leilões.
+
+Histórico de Lances: Registro detalhado dos lances para garantir transparência e consulta futura.
+
+Segurança:
+
+Autenticação: Login seguro para todos os usuários, possivelmente com autenticação de dois fatores (2FA).
+
+Criptografia: Proteção dos dados dos usuários e dos lances com criptografia.
+
+Backup: Procedimentos regulares de backup dos dados para evitar perda de informações.
+
+Interface:
+
+Web e Mobile: Acesso ao sistema tanto via navegador quanto através de aplicativos móveis.
+
+Acessibilidade: Design intuitivo e acessível para facilitar o uso por todos.
+
+As tecnologias utilizadas no projeto foram: Java pela IDE Netbeans e MySQL para o script do projeto
