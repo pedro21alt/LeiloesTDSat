@@ -1,0 +1,19 @@
+A ideia é implementar um sistema informatizado para melhorar e agilizar as operações de uma casa de leilões. Este projeto incluirá a criação de uma plataforma digital onde os itens de leilão podem ser cadastrados, visualizados pelos interessados e onde os lances podem ser feitos online em tempo real.
+
+Práticas de Segurança:
+
+Autenticação e Autorização: Apenas usuários autenticados poderão acessar a plataforma, e cada usuário terá permissões específicas de acordo com seu perfil.
+
+Criptografia: Dados sensíveis, como informações de pagamento, serão criptografados para proteger a privacidade dos usuários.
+
+Auditoria e Logs: Registros detalhados das ações dos usuários serão mantidos para monitorar atividades suspeitas e auxiliar em auditorias.
+
+Qualidade de Software:
+
+Testes Automatizados: Scripts de teste serão criados para garantir que todas as funcionalidades do sistema funcionem corretamente.
+
+Monitoramento de Performance: Ferramentas de monitoramento serão utilizadas para garantir que o sistema esteja sempre funcionando de forma eficiente, mesmo sob alta demanda.
+
+Feedback Contínuo: Mecanismos para coletar feedback dos usuários serão implementados para realizar melhorias contínuas no sistema.
+
+As tecnologias utilizadas para o projeto foram: Java no IDE NetBeans e MySQl para o script do projeto
